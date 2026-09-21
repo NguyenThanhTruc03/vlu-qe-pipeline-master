@@ -1,6 +1,6 @@
 // Update login logic
 const USERS = {
-  admin: '123',
+  admin: '9999',
   user1: 'p@ss#w0rd!'
 };
 const LOCKED_USERS = ['locked_user'];
